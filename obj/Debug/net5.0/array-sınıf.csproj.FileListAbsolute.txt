@@ -1,0 +1,16 @@
+C:\Users\ferhan\Desktop\Pratikler\array-sınıf\bin\Debug\net5.0\array-sınıf.exe
+C:\Users\ferhan\Desktop\Pratikler\array-sınıf\bin\Debug\net5.0\array-sınıf.deps.json
+C:\Users\ferhan\Desktop\Pratikler\array-sınıf\bin\Debug\net5.0\array-sınıf.runtimeconfig.json
+C:\Users\ferhan\Desktop\Pratikler\array-sınıf\bin\Debug\net5.0\array-sınıf.runtimeconfig.dev.json
+C:\Users\ferhan\Desktop\Pratikler\array-sınıf\bin\Debug\net5.0\array-sınıf.dll
+C:\Users\ferhan\Desktop\Pratikler\array-sınıf\bin\Debug\net5.0\ref\array-sınıf.dll
+C:\Users\ferhan\Desktop\Pratikler\array-sınıf\bin\Debug\net5.0\array-sınıf.pdb
+C:\Users\ferhan\Desktop\Pratikler\array-sınıf\obj\Debug\net5.0\array-sınıf.csprojAssemblyReference.cache
+C:\Users\ferhan\Desktop\Pratikler\array-sınıf\obj\Debug\net5.0\array-sınıf.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ferhan\Desktop\Pratikler\array-sınıf\obj\Debug\net5.0\array-sınıf.AssemblyInfoInputs.cache
+C:\Users\ferhan\Desktop\Pratikler\array-sınıf\obj\Debug\net5.0\array-sınıf.AssemblyInfo.cs
+C:\Users\ferhan\Desktop\Pratikler\array-sınıf\obj\Debug\net5.0\array-sınıf.csproj.CoreCompileInputs.cache
+C:\Users\ferhan\Desktop\Pratikler\array-sınıf\obj\Debug\net5.0\array-sınıf.dll
+C:\Users\ferhan\Desktop\Pratikler\array-sınıf\obj\Debug\net5.0\ref\array-sınıf.dll
+C:\Users\ferhan\Desktop\Pratikler\array-sınıf\obj\Debug\net5.0\array-sınıf.pdb
+C:\Users\ferhan\Desktop\Pratikler\array-sınıf\obj\Debug\net5.0\array-sınıf.genruntimeconfig.cache
